@@ -4,6 +4,6 @@
 
 No | Name of Bussiness | Status | Desc
 --- | --- | --- | --- 
-1 | [Kraken](../kraken/kraken.md) | Live | bla bla bla
+1 | [Kraken](kraken/kraken.md) | Live | bla bla bla
 2 | Buss B | Dev | bla bla bla
   | Buss C | Live | bla bla bla
