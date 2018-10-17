@@ -1,1 +1,6 @@
 site_name: SPL
+
+nav:
+    - Home: index.md
+    - About: about.md
+theme: readthedocs
