@@ -1,3 +1,1 @@
-# SPL
-
-SPL is bla bla bla
+This page about SPL
