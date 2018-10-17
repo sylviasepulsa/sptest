@@ -2,5 +2,6 @@ site_name: SPL
 
 nav:
     - Home: index.md
+    - Tech: tech/index_tech.md
     - About: about.md
 theme: readthedocs
