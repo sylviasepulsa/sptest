@@ -3,7 +3,7 @@ site_name: SPL
 nav:
     - Home: index.md
     - Tech: 
-      - List of Bussiness: tech/list_bussiness.md
+      - List of Bussiness: list_bussiness.md
       - Onboarding Tech: tech/tech_onboarding.md
       - Tech Team: tech/tech_team.md
     - About: about.md
