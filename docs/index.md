@@ -1,5 +1,3 @@
-# Welcome to SPL
-
 Welcome to SPL Docs. This is a place for all SPL's  document. It is maintained by all of us, help out the cause.
 
 <aside class="warning">
