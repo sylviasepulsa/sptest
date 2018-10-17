@@ -1,9 +1,8 @@
-site_name: SPL
+site_name: SPLS
 
 nav:
     - Home: index.md
     - Kraken: kraken.md
-      - 
     - Tech: 
       - List of Bussiness: tech/list_bussiness.md
       - Onboarding Tech: tech/tech_onboarding.md
